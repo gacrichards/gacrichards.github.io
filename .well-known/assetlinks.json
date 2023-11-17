@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gopro.smarty.debug",
+    "sha256_cert_fingerprints":
+    ["E9:FA:88:76:0B:36:31:63:4E:AF:83:84:9D:8F:48:9D:5C:66:3C:89:CA:F1:7D:30:91:88:58:B6:2F:FB:56:62"]
+  }
+}]
